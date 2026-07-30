@@ -39,6 +39,9 @@ An Android application inspired by the terminal hacking tool used by Marcus in *
   <img src="https://github.com/user-attachments/assets/10063469-2fef-4f60-8532-f6e065c84f9a" height="300" />
 </p>
 
+### 🎥 Video review
+Video review available on TikTok - https://vt.tiktok.com/ZS42VwdJo/
+
 ### 🚀 Status
 The project is currently under active development. New interactive features and UI improvements are planned for upcoming releases.
 
