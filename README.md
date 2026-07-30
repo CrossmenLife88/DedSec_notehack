@@ -46,9 +46,10 @@ Video review on TikTok - https://vt.tiktok.com/ZS42VwdJo/
 The project is currently under active development. New interactive features and UI improvements are planned for upcoming releases.
 See the status of the project in my TikTok or Telegram channel:
 
-TikTok - tiktok.com/@ghost.base.pc
-
-Telegram - t.me/ch341_turbulentnosty
+## TikTok:
+tiktok.com/@ghost.base.pc
+## Telegram:
+t.me/ch341_turbulentnosty
 
 *Contributions and feedback are always welcome!*
 
@@ -86,8 +87,9 @@ Telegram - t.me/ch341_turbulentnosty
 Проект находится в стадии активной разработки. Со временем будут добавляться новые функции, звуковые эффекты и элементы интерфейса.
 Смотрите за состояние проекта в моем ТикТоке или Телеграмм канале:
 
-TikTok - tiktok.com/@ghost.base.pc
-
-Telegram - t.me/ch341_turbulentnosty
+## TikTok:
+tiktok.com/@ghost.base.pc
+## Telegram:
+t.me/ch341_turbulentnosty
 
 *Буду рад любому участию в проекте (Pull Requests, Issue, идеи)!*
