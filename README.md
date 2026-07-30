@@ -25,3 +25,13 @@ RU:
 В будущем в него будут добавляться различные функции и фишки.
 
 Буду раз каждому кто захочет принять участие в проекте!!!
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31ec61d5-1f85-4a23-b5ce-ebbf6a696d98" height="400" />
+  <img src="https://github.com/user-attachments/assets/72d6d005-d8a1-4d99-8838-10742d007d0f" height="400" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c4157c5a-d16b-4201-9da6-949fe095fdaf" height="300" />
+  <img src="https://github.com/user-attachments/assets/10063469-2fef-4f60-8532-f6e065c84f9a" height="300" />
+</p>
