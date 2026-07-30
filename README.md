@@ -40,7 +40,7 @@ An Android application inspired by the terminal hacking tool used by Marcus in *
 </p>
 
 ### 🎥 Video review
-Video review available on TikTok - https://vt.tiktok.com/ZS42VwdJo/
+Video review on TikTok - https://vt.tiktok.com/ZS42VwdJo/
 
 ### 🚀 Status
 The project is currently under active development. New interactive features and UI improvements are planned for upcoming releases.
@@ -73,6 +73,9 @@ The project is currently under active development. New interactive features and 
   <img src="https://github.com/user-attachments/assets/c4157c5a-d16b-4201-9da6-949fe095fdaf" height="300" />
   <img src="https://github.com/user-attachments/assets/10063469-2fef-4f60-8532-f6e065c84f9a" height="300" />
 </p>
+
+### 🎥 Видео обзор
+Видео обзор в TikTok - https://vt.tiktok.com/ZS42VwdJo/
 
 ### 🚀 Статус проекта
 Проект находится в стадии активной разработки. Со временем будут добавляться новые функции, звуковые эффекты и элементы интерфейса.
