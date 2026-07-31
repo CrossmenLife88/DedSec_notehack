@@ -1,4 +1,4 @@
-# 📱 DedSec Notehack (Watch_Dogs 2 Terminal Style App)
+# 📱 DedSec Notehack (Watch_Dogs 2 Notes Style App)
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Android-brightgreen?style=flat-square&logo=android" alt="Android">
@@ -17,11 +17,17 @@
 <a name="english"></a>
 ## 🇬🇧 English
 
-An Android notes application inspired by the terminal hacking tool used by Marcus in **Watch_Dogs 2**.
+An Android notes app inspired by the terminal hacking tool used by Marcus in **Watch_Dogs 2**. Part of a broader family of minimalist DedSec-styled apps.
 
 > ⚠️ **DISCLAIMER / ATTENTION:**
 > **This is purely a cosmetic/fun application!**
 > It is **NOT** a hacking tool and contains no actual exploit/hacking functionality. Created solely for visual aesthetics, roleplay, and harmless pranks :)
+
+### ✨ Features
+* Create, edit, and organize plain-text notes in a monochrome terminal aesthetic
+* Pin important notes to the top
+* Delete notes you no longer need
+* The signature DedSec hacking easter egg — 5 taps on the title reveals a fake terminal hacking sequence
 
 ### 🛠 Tech & Environment
 * **Platform:** Android OS
@@ -29,23 +35,25 @@ An Android notes application inspired by the terminal hacking tool used by Marcu
 * **Development Environment:** Arch Linux
 
 ### 📸 Screenshots
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/31ec61d5-1f85-4a23-b5ce-ebbf6a696d98" height="400" />
-  <img src="https://github.com/user-attachments/assets/72d6d005-d8a1-4d99-8838-10742d007d0f" height="400" />
-</p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c4157c5a-d16b-4201-9da6-949fe095fdaf" height="300" />
-  <img src="https://github.com/user-attachments/assets/10063469-2fef-4f60-8532-f6e065c84f9a" height="300" />
-</p>
+<table>
+  <tr>
+    <td><a href="https://github.com/user-attachments/assets/31ec61d5-1f85-4a23-b5ce-ebbf6a696d98"><img src="https://github.com/user-attachments/assets/31ec61d5-1f85-4a23-b5ce-ebbf6a696d98" width="150"/></a></td>
+    <td><a href="https://github.com/user-attachments/assets/72d6d005-d8a1-4d99-8838-10742d007d0f"><img src="https://github.com/user-attachments/assets/72d6d005-d8a1-4d99-8838-10742d007d0f" width="150"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/user-attachments/assets/c4157c5a-d16b-4201-9da6-949fe095fdaf"><img src="https://github.com/user-attachments/assets/c4157c5a-d16b-4201-9da6-949fe095fdaf" width="150"/></a></td>
+    <td><a href="https://github.com/user-attachments/assets/10063469-2fef-4f60-8532-f6e065c84f9a"><img src="https://github.com/user-attachments/assets/10063469-2fef-4f60-8532-f6e065c84f9a" width="150"/></a></td>
+  </tr>
+</table>
 
 ### 🎥 Video review
 Video review on TikTok - https://vt.tiktok.com/ZS42VwdJo/
 
 ### 🚀 Status
 The project is currently under active development. New interactive features and UI improvements are planned for upcoming releases.
-See the status of the project in my TikTok or Telegram channel:
 
+See the status of the project on my TikTok or Telegram channel:
 ## TikTok:
 tiktok.com/@ghost.base.pc
 ## Telegram:
@@ -58,11 +66,17 @@ t.me/ch341_turbulentnosty
 <a name="русский"></a>
 ## 🇷🇺 Русский
 
-Приложение заметок для Android, созданное по мотивам интерфейса взлома терминалов из игры **Watch_Dogs 2**.
+Приложение заметок для Android, созданное по мотивам интерфейса взлома терминалов из игры **Watch_Dogs 2**. Часть более крупной серии минималистичных приложений в стиле DedSec.
 
 > ⚠️ **ВНИМАНИЕ:**
 > **Это исключительно косметическое приложение!**
 > Это **НЕ** инструмент для реального взлома. Оно создано только для визуального оформления, косплея и безобидных розыгрышей :)
+
+### ✨ Возможности
+* Создание, редактирование и организация текстовых заметок в монохромной терминальной стилистике
+* Закрепление важных заметок наверху списка
+* Удаление ненужных заметок
+* Фирменная хакерская пасхалка — 5 тапов по заголовку запускают имитацию взлома терминала
 
 ### 🛠 Окружение и разработка
 * **Платформа:** Android OS
@@ -70,23 +84,25 @@ t.me/ch341_turbulentnosty
 * **ОС разработчика:** Linux (Arch Linux)
 
 ### 📸 Скриншоты
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/31ec61d5-1f85-4a23-b5ce-ebbf6a696d98" height="400" />
-  <img src="https://github.com/user-attachments/assets/72d6d005-d8a1-4d99-8838-10742d007d0f" height="400" />
-</p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c4157c5a-d16b-4201-9da6-949fe095fdaf" height="300" />
-  <img src="https://github.com/user-attachments/assets/10063469-2fef-4f60-8532-f6e065c84f9a" height="300" />
-</p>
+<table>
+  <tr>
+    <td><a href="https://github.com/user-attachments/assets/31ec61d5-1f85-4a23-b5ce-ebbf6a696d98"><img src="https://github.com/user-attachments/assets/31ec61d5-1f85-4a23-b5ce-ebbf6a696d98" width="150"/></a></td>
+    <td><a href="https://github.com/user-attachments/assets/72d6d005-d8a1-4d99-8838-10742d007d0f"><img src="https://github.com/user-attachments/assets/72d6d005-d8a1-4d99-8838-10742d007d0f" width="150"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/user-attachments/assets/c4157c5a-d16b-4201-9da6-949fe095fdaf"><img src="https://github.com/user-attachments/assets/c4157c5a-d16b-4201-9da6-949fe095fdaf" width="150"/></a></td>
+    <td><a href="https://github.com/user-attachments/assets/10063469-2fef-4f60-8532-f6e065c84f9a"><img src="https://github.com/user-attachments/assets/10063469-2fef-4f60-8532-f6e065c84f9a" width="150"/></a></td>
+  </tr>
+</table>
 
 ### 🎥 Видео обзор
 Видео обзор в TikTok - https://vt.tiktok.com/ZS42VwdJo/
 
 ### 🚀 Статус проекта
 Проект находится в стадии активной разработки. Со временем будут добавляться новые функции, звуковые эффекты и элементы интерфейса.
-Смотрите за состояние проекта в моем ТикТоке или Телеграмм канале:
 
+Смотрите за состоянием проекта в моём ТикТоке или Телеграм-канале:
 ## TikTok:
 tiktok.com/@ghost.base.pc
 ## Telegram:
