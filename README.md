@@ -17,7 +17,7 @@
 <a name="english"></a>
 ## 🇬🇧 English
 
-An Android application inspired by the terminal hacking tool used by Marcus in **Watch_Dogs 2**.
+An Android notes application inspired by the terminal hacking tool used by Marcus in **Watch_Dogs 2**.
 
 > ⚠️ **DISCLAIMER / ATTENTION:**
 > **This is purely a cosmetic/fun application!**
@@ -58,7 +58,7 @@ t.me/ch341_turbulentnosty
 <a name="русский"></a>
 ## 🇷🇺 Русский
 
-Приложение для Android, созданное по мотивам интерфейса взлома терминалов из игры **Watch_Dogs 2**.
+Приложение заметок для Android, созданное по мотивам интерфейса взлома терминалов из игры **Watch_Dogs 2**.
 
 > ⚠️ **ВНИМАНИЕ:**
 > **Это исключительно косметическое приложение!**
