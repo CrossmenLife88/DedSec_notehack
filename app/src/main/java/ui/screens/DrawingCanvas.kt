@@ -59,6 +59,7 @@ fun DrawingOverlay(
         modifier = Modifier
             .fillMaxSize()
             .background(Color(0xFF050505))
+            .systemBarsPadding()
     ) {
         Row(
             modifier = Modifier.fillMaxWidth().padding(12.dp),
